@@ -35,8 +35,45 @@ p {
 
 #hero-img {
     height: 400px;
+    background-color: rgb(219, 147, 147);
 }
 
 #footer {
     height: 320px;
+}
+
+#logo {
+    background-color: rgb(219, 147, 147);
+}
+
+#nav {
+    background-color: rgb(219, 147, 147);
+}
+
+#service1 {
+    background-color: rgb(219, 147, 147);
+}
+
+#service2 {
+    background-color: rgb(219, 147, 147);
+}
+
+#service3 {
+    background-color: rgb(219, 147, 147);
+}
+
+#service4 {
+    background-color: rgb(219, 147, 147);
+}
+
+#product1 {
+    background-color: rgb(219, 147, 147);
+}
+
+#product2 {
+    background-color: rgb(219, 147, 147);
+}
+
+#footer {
+    background-color: rgb(219, 147, 147);
 }
